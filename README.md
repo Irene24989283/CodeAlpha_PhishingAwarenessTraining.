@@ -1,5 +1,6 @@
 # CodeAlpha_PhishingAwarenessTraining.
 Phishing Awareness Training — CodeAlpha Cybersecurity Internship Task 2.
+
 Student: Irene Iteriteka
 
 What is this project?
@@ -28,9 +29,9 @@ After going through the training, test yourself here:
 
 # Files in this project
 
-- PhishingAwarenessTraining_IreneIteriteka.html — interactive training module
-- PhishingAwarenessTraining_IreneIteriteka.pptx — PowerPoint presentation
-- README.md — project description
+- PhishingAwarenessTraining_IreneIteriteka.html :interactive training module
+- PhishingAwarenessTraining_IreneIteriteka.pptx :PowerPoint presentation
+- README.md : project description
 
 
 #Tools used
